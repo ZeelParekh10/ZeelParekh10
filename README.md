@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zeel Parekh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeelparekh10" alt="zeelparekh10" /></a> </p>
-
 - 🔭 I’m currently working with **Flutter & Python**
 
 - 🌱 I’m currently learning **React.js and handling states in flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeel parekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeel parekh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zeel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeel10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeel parekh](https://www.linkedin.com/in/zeel-parekh-654812213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeel parekh" height="30" width="40" /></a>
+<a href="[https://codeforces.com/profile/zeel10](https://codeforces.com/profile/Zeel10)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeel10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
